@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: auto;
+
+    background-color: #ffffff;
+    position: relative;
+
+
+
+}
+
+#hero {
+    width: 626px;
+    margin: auto;
+    margin-top: 72px;
+
+}
+
+img#hero {
+    margin: 0 auto;
+}
+
+.span1 {
+    color: hsla(0, 0%, 51%, 1);
+}
+
+
+
+h1 {
+    text-align: center;
+    font-family: 'Dosis';
+    margin-top: 32px;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: normal;
+    margin-bottom: 32px;
+    color: #3F3D56;
+}
+
+h1 span {
+    font-weight: 700;
+
+    color: hsla(295, 100%, 57%, 1)
+}
+
+strong:nth-child(4) {
+    color:
+        hsla(0, 0%, 51%, 1)
+}
+
+p {
+    font-family: 'Open Sans' sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    color: #828282;
+    margin-top: 32px;
+
+}
+
+strong {
+    color: black;
+}
+
+p:nth-child(4) {
+    margin-bottom: 64px;
+}
+
+#footer a+a {
+
+    font-family: 'Open Sans' sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+
+    color: #3F3D56;
+    margin: 0 auto;
+    text-decoration: none;
+    margin-left: 42px;
+
+}
+
+a {
+    font-family: 'Open Sans' sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #3F3D56;
+    text-decoration: none;
+}
+
+img#faixa {
+    position: absolute;
+    margin-top: 50px;
+    left: 200px;
+
+
+
+
+
+}
